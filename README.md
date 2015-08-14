@@ -4,4 +4,4 @@
 
 #####Project Name : EasyPE
 #####Project Version : Beta Build 1
-#####Project Progress of Disease : 0.0%
+#####Project Progress : 0.0%
