@@ -1,7 +1,6 @@
 # EasyPE by YukiAsuna
 MCPE Plugin
-> function test()
-> {
+> function test()\n{
 > clientMessage("Hello World");
 > }
 
